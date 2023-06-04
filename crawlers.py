@@ -71,7 +71,7 @@ class RunCrawler(threading.Thread):
             url_dict = url_dict[key]
 
     def check_url(self, url: str) -> None:
-        if url not in self.url_queue and url not in self.checked_url:
+        if url not in self.url_queue and url not in self.checked_url and self.InitialURL in url:
             quote_url = quote(url, safe=string.printable).replace(" ", "%20")
             self.url_queue.append(quote_url)
             self.add_url_to_tree(quote_url)
