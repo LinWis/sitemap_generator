@@ -7,12 +7,13 @@ from urllib.parse import urlparse, quote, urljoin
 from urllib.request import Request
 import threading
 
+import lxml
 from lxml.html.soupparser import fromstring
 
 
 class RunCrawler(threading.Thread):
 
-    def __init__(self, url):
+    def __init__(self, url: str):
         super().__init__()
         self.InitialURL = url
         self.url_queue = list()
@@ -24,7 +25,7 @@ class RunCrawler(threading.Thread):
         self.run_end = None
         self.run_dif = None
 
-    def get_dataset(self):
+    def get_dataset(self) -> dict:
         self.check_url(self.InitialURL)
         self.start()
         self.join()
@@ -53,7 +54,7 @@ class RunCrawler(threading.Thread):
                 break
         self.done()
 
-    def add_url_to_tree(self, url):
+    def add_url_to_tree(self, url: str) -> None:
 
         url_dict = self.checked_url_tree
         url_parsed = urlparse(url)
@@ -69,17 +70,17 @@ class RunCrawler(threading.Thread):
 
             url_dict = url_dict[key]
 
-    def check_url(self, url):
+    def check_url(self, url: str) -> None:
         if url not in self.url_queue and url not in self.checked_url:
             quote_url = quote(url, safe=string.printable).replace(" ", "%20")
             self.url_queue.append(quote_url)
             self.add_url_to_tree(quote_url)
 
-    def process_checked(self, url):
+    def process_checked(self, url: str) -> None:
         if url not in self.checked_url:
             self.checked_url.add(url)
 
-    def join_url(self, src, url):
+    def join_url(self, src: str, url: str) -> str:
 
         src_new_path = None
         url_new_path = None
@@ -102,7 +103,7 @@ class RunCrawler(threading.Thread):
 
         return urljoin(src_new_path, url_new_path)
 
-    def parse_thread(self, url, data):
+    def parse_thread(self, url: str, data: lxml.html) -> None:
         temp_links = data.xpath('//a')
 
         for temp_index, temp_link in enumerate(temp_links):
@@ -117,24 +118,24 @@ class RunCrawler(threading.Thread):
                 if path:
                     self.check_url(path)
 
-    def get_info(self):
+    def get_info(self) -> list:
         return [self.InitialURL, self.run_dif, len(self.checked_url)]
 
-    def done(self):
+    def done(self) -> None:
         print('Checked: ', len(self.checked_url))
 
         self.run_end = time.time()
         self.run_dif = self.run_end - self.run_ini
 
-    def __repr__(self):
+    def __repr__(self) -> str:
         return f"{self.__class__}: {self.InitialURL}"
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"{self.InitialURL}"
 
 
 class Crawler(threading.Thread):
-    def __init__(self, index, crawl_url, main_crawler):
+    def __init__(self, index: int, crawl_url: str, main_crawler: RunCrawler):
         super().__init__()
         self.request_headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0",
@@ -180,10 +181,10 @@ class Crawler(threading.Thread):
 
         self.main_crawler.process_checked(self.crawl_url)
 
-    def __repr__(self):
+    def __repr__(self) -> str:
         return f"{self.__class__}, Url: {self.crawl_url}, Index: {self.index}"
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"Url: {self.crawl_url}, Index: {self.index}"
 
 

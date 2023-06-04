@@ -11,7 +11,7 @@ class MyDbPostgreSql:
         self.connection = None
         self.cursor = None
 
-    def open(self):
+    def open(self) -> None:
 
         try:
             self.connection = psycopg2.connect(host=self.host, user=self.user,
@@ -25,10 +25,10 @@ class MyDbPostgreSql:
             print("Can't connect to db:")
             print(f'Error {e}')
 
-    def close(self):
+    def close(self) -> None:
         self.connection.close()
 
-    def create_table(self, table_name, table_structure):
+    def create_table(self, table_name: str, table_structure: str) -> None:
 
         query = "CREATE TABLE " + table_name + table_structure
         self.open()
@@ -37,7 +37,7 @@ class MyDbPostgreSql:
         self.connection.commit()
         self.close()
 
-    def insert(self, table, *args, **kwargs):
+    def insert(self, table, *args, **kwargs) -> None:
 
         values = None
         query = f'INSERT INTO {table} '

@@ -13,19 +13,19 @@ class Sitemap:
         self.filename = filename
         self.data_set = data_set
 
-    def generate_sitemap(self):
+    def generate_sitemap(self) -> None:
 
         print('Running XML Generator...')
 
         self.create_xml()
         self.write_xml()
 
-    def create_xml(self):
+    def create_xml(self) -> None:
         self.url_set = etree.Element('url_set')
         self.url_set.attrib['xmlns'] = self.xmlns
         self.url_set = self.create_url_set(self.data_set, self.url_set)
 
-    def write_xml(self):
+    def write_xml(self) -> None:
         f = open(self.filename, 'w', encoding='utf-8')
 
         print(etree.tostring(self.url_set, pretty_print=True, encoding="utf-8", method="xml").decode('utf-8'), file=f)
@@ -33,11 +33,11 @@ class Sitemap:
 
         print('Sitemap saved in: ', self.filename)
 
-    def get_info(self):
+    def get_info(self) -> list:
         return [self.filename]
 
     @staticmethod
-    def format_data(datetime):
+    def format_data(datetime: str) -> str:
         datearr = eut.parsedate(datetime)
         date = None
 
@@ -59,7 +59,7 @@ class Sitemap:
         return date
 
     @staticmethod
-    def create_url_set(init_dict, url_set):
+    def create_url_set(init_dict: dict, url_set: etree) -> etree:
         for key, val in init_dict.items():
             url = etree.Element('url')
             url.attrib['href'] = key
