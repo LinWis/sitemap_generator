@@ -9,7 +9,7 @@ from db_connect import MyDbPostgreSql
 from sitemap_visualizer import VisualizerSitemap
 
 if __name__ == "__main__":
-    my_db = MyDbPostgreSql(password="68305eetR_1", db_name="postgres")
+    my_db = MyDbPostgreSql(password="", db_name="postgres")
     my_db.create_table('sitemaps',
                        '(id SERIAL PRIMARY KEY, site_url TEXT,'
                        ' processing_time_ms INT, checked_urls INT,'
