@@ -1,0 +1,1926 @@
+<url_set xmlns="https://www.testsitemap.org/schemas/sitemap/1">
+  <url href="/google.com">
+    <url href="/google.com/"/>
+    <url href="/google.com/advanced_search"/>
+    <url href="/google.com/intl">
+      <url href="/google.com/intl/ru">
+        <url href="/google.com/intl/ru/ads">
+          <url href="/google.com/intl/ru/ads/"/>
+        </url>
+        <url href="/google.com/intl/ru/about.html"/>
+        <url href="/google.com/intl/ru/policies">
+          <url href="/google.com/intl/ru/policies/privacy">
+            <url href="/google.com/intl/ru/policies/privacy/"/>
+          </url>
+          <url href="/google.com/intl/ru/policies/terms">
+            <url href="/google.com/intl/ru/policies/terms/"/>
+          </url>
+        </url>
+        <url href="/google.com/intl/ru/home">
+          <url href="/google.com/intl/ru/home/"/>
+          <url href="/google.com/intl/ru/home/how-it-works">
+            <url href="/google.com/intl/ru/home/how-it-works/"/>
+          </url>
+          <url href="/google.com/intl/ru/home/pricing">
+            <url href="/google.com/intl/ru/home/pricing/"/>
+          </url>
+          <url href="/google.com/intl/ru/home/faq">
+            <url href="/google.com/intl/ru/home/faq/"/>
+          </url>
+          <url href="/google.com/intl/ru/home/resources">
+            <url href="/google.com/intl/ru/home/resources/advanced">
+              <url href="/google.com/intl/ru/home/resources/advanced/"/>
+            </url>
+          </url>
+          <url href="/google.com/intl/ru/home/tools">
+            <url href="/google.com/intl/ru/home/tools/keyword-planner">
+              <url href="/google.com/intl/ru/home/tools/keyword-planner/"/>
+            </url>
+            <url href="/google.com/intl/ru/home/tools/manager-accounts">
+              <url href="/google.com/intl/ru/home/tools/manager-accounts/"/>
+            </url>
+          </url>
+        </url>
+        <url href="/google.com/intl/ru/"/>
+        <url href="/google.com/intl/ru/products">
+          <url href="/google.com/intl/ru/products/"/>
+        </url>
+        <url href="/google.com/intl/ru/commitments">
+          <url href="/google.com/intl/ru/commitments/"/>
+        </url>
+        <url href="/google.com/intl/ru/stories">
+          <url href="/google.com/intl/ru/stories/"/>
+          <url href="/google.com/intl/ru/stories/soundingthealarm">
+            <url href="/google.com/intl/ru/stories/soundingthealarm/"/>
+          </url>
+          <url href="/google.com/intl/ru/stories/lifebank">
+            <url href="/google.com/intl/ru/stories/lifebank/"/>
+          </url>
+          <url href="/google.com/intl/ru/stories/agoraphobic-traveller">
+            <url href="/google.com/intl/ru/stories/agoraphobic-traveller/"/>
+          </url>
+          <url href="/google.com/intl/ru/stories/clean-air-for-kampala">
+            <url href="/google.com/intl/ru/stories/clean-air-for-kampala/"/>
+          </url>
+        </url>
+        <url href="/google.com/intl/ru/contact-google">
+          <url href="/google.com/intl/ru/contact-google/"/>
+        </url>
+        <url href="/google.com/intl/ru/locations">
+          <url href="/google.com/intl/ru/locations/"/>
+        </url>
+        <url href="/google.com/intl/ru/extended-workforce">
+          <url href="/google.com/intl/ru/extended-workforce/"/>
+        </url>
+        <url href="/google.com/intl/ru/community-guidelines">
+          <url href="/google.com/intl/ru/community-guidelines/"/>
+        </url>
+        <url href="/google.com/intl/ru/how-our-business-works">
+          <url href="/google.com/intl/ru/how-our-business-works/"/>
+        </url>
+      </url>
+      <url href="/google.com/intl/en">
+        <url href="/google.com/intl/en/ads">
+          <url href="/google.com/intl/en/ads/"/>
+        </url>
+        <url href="/google.com/intl/en/about.html"/>
+        <url href="/google.com/intl/en/policies">
+          <url href="/google.com/intl/en/policies/privacy">
+            <url href="/google.com/intl/en/policies/privacy/"/>
+          </url>
+          <url href="/google.com/intl/en/policies/terms">
+            <url href="/google.com/intl/en/policies/terms/"/>
+          </url>
+        </url>
+        <url href="/google.com/intl/en/googlebooks">
+          <url href="/google.com/intl/en/googlebooks/about.html"/>
+          <url href="/google.com/intl/en/googlebooks/privacy.html"/>
+          <url href="/google.com/intl/en/googlebooks/tos.html"/>
+        </url>
+        <url href="/google.com/intl/en/home">
+          <url href="/google.com/intl/en/home/"/>
+          <url href="/google.com/intl/en/home/how-it-works">
+            <url href="/google.com/intl/en/home/how-it-works/"/>
+          </url>
+          <url href="/google.com/intl/en/home/pricing">
+            <url href="/google.com/intl/en/home/pricing/"/>
+          </url>
+          <url href="/google.com/intl/en/home/faq">
+            <url href="/google.com/intl/en/home/faq/"/>
+          </url>
+          <url href="/google.com/intl/en/home/resources">
+            <url href="/google.com/intl/en/home/resources/advanced">
+              <url href="/google.com/intl/en/home/resources/advanced/"/>
+            </url>
+          </url>
+          <url href="/google.com/intl/en/home/tools">
+            <url href="/google.com/intl/en/home/tools/keyword-planner">
+              <url href="/google.com/intl/en/home/tools/keyword-planner/"/>
+            </url>
+            <url href="/google.com/intl/en/home/tools/manager-accounts">
+              <url href="/google.com/intl/en/home/tools/manager-accounts/"/>
+            </url>
+          </url>
+        </url>
+        <url href="/google.com/intl/en/"/>
+        <url href="/google.com/intl/en/products">
+          <url href="/google.com/intl/en/products/"/>
+        </url>
+        <url href="/google.com/intl/en/commitments">
+          <url href="/google.com/intl/en/commitments/"/>
+        </url>
+        <url href="/google.com/intl/en/stories">
+          <url href="/google.com/intl/en/stories/"/>
+          <url href="/google.com/intl/en/stories/soundingthealarm">
+            <url href="/google.com/intl/en/stories/soundingthealarm/"/>
+          </url>
+          <url href="/google.com/intl/en/stories/lifebank">
+            <url href="/google.com/intl/en/stories/lifebank/"/>
+          </url>
+          <url href="/google.com/intl/en/stories/agoraphobic-traveller">
+            <url href="/google.com/intl/en/stories/agoraphobic-traveller/"/>
+          </url>
+          <url href="/google.com/intl/en/stories/clean-air-for-kampala">
+            <url href="/google.com/intl/en/stories/clean-air-for-kampala/"/>
+          </url>
+        </url>
+        <url href="/google.com/intl/en/contact-google">
+          <url href="/google.com/intl/en/contact-google/"/>
+        </url>
+        <url href="/google.com/intl/en/locations">
+          <url href="/google.com/intl/en/locations/"/>
+        </url>
+        <url href="/google.com/intl/en/extended-workforce">
+          <url href="/google.com/intl/en/extended-workforce/"/>
+        </url>
+        <url href="/google.com/intl/en/community-guidelines">
+          <url href="/google.com/intl/en/community-guidelines/"/>
+        </url>
+        <url href="/google.com/intl/en/how-our-business-works">
+          <url href="/google.com/intl/en/how-our-business-works/"/>
+        </url>
+      </url>
+      <url href="/google.com/intl/es">
+        <url href="/google.com/intl/es/"/>
+        <url href="/google.com/intl/es/products">
+          <url href="/google.com/intl/es/products/jamboard">
+            <url href="/google.com/intl/es/products/jamboard/"/>
+          </url>
+        </url>
+        <url href="/google.com/intl/es/ads">
+          <url href="/google.com/intl/es/ads/"/>
+        </url>
+        <url href="/google.com/intl/es/about.html"/>
+        <url href="/google.com/intl/es/policies">
+          <url href="/google.com/intl/es/policies/privacy">
+            <url href="/google.com/intl/es/policies/privacy/"/>
+          </url>
+          <url href="/google.com/intl/es/policies/terms">
+            <url href="/google.com/intl/es/policies/terms/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/ru_ru">
+        <url href="/google.com/intl/ru_ru/start">
+          <url href="/google.com/intl/ru_ru/start/"/>
+          <url href="/google.com/intl/ru_ru/start/solutions">
+            <url href="/google.com/intl/ru_ru/start/solutions/"/>
+            <url href="/google.com/intl/ru_ru/start/solutions/auto-ads">
+              <url href="/google.com/intl/ru_ru/start/solutions/auto-ads/"/>
+            </url>
+            <url href="/google.com/intl/ru_ru/start/solutions/responsive-ads">
+              <url href="/google.com/intl/ru_ru/start/solutions/responsive-ads/"/>
+            </url>
+          </url>
+          <url href="/google.com/intl/ru_ru/start/success-stories">
+            <url href="/google.com/intl/ru_ru/start/success-stories/"/>
+          </url>
+          <url href="/google.com/intl/ru_ru/start/resources">
+            <url href="/google.com/intl/ru_ru/start/resources/"/>
+          </url>
+          <url href="/google.com/intl/ru_ru/start/contact-form">
+            <url href="/google.com/intl/ru_ru/start/contact-form/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/en_ca">
+        <url href="/google.com/intl/en_ca/products">
+          <url href="/google.com/intl/en_ca/products/jamboard">
+            <url href="/google.com/intl/en_ca/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/en_za">
+        <url href="/google.com/intl/en_za/products">
+          <url href="/google.com/intl/en_za/products/jamboard">
+            <url href="/google.com/intl/en_za/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/en_uk">
+        <url href="/google.com/intl/en_uk/products">
+          <url href="/google.com/intl/en_uk/products/jamboard">
+            <url href="/google.com/intl/en_uk/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/fr">
+        <url href="/google.com/intl/fr/products">
+          <url href="/google.com/intl/fr/products/jamboard">
+            <url href="/google.com/intl/fr/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/fr_ca">
+        <url href="/google.com/intl/fr_ca/products">
+          <url href="/google.com/intl/fr_ca/products/jamboard">
+            <url href="/google.com/intl/fr_ca/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/fr_ch">
+        <url href="/google.com/intl/fr_ch/products">
+          <url href="/google.com/intl/fr_ch/products/jamboard">
+            <url href="/google.com/intl/fr_ch/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/intl/ja">
+        <url href="/google.com/intl/ja/products">
+          <url href="/google.com/intl/ja/products/jamboard">
+            <url href="/google.com/intl/ja/products/jamboard/"/>
+          </url>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/webhp"/>
+    <url href="/google.com/preferences"/>
+    <url href="/google.com/url"/>
+    <url href="/google.com/support">
+      <url href="/google.com/support/websearch"/>
+      <url href="/google.com/support/invalid"/>
+      <url href="/google.com/support/"/>
+    </url>
+    <url href="/google.com/accounts">
+      <url href="/google.com/accounts/"/>
+      <url href="/google.com/accounts/community"/>
+      <url href="/google.com/accounts/announcements">
+        <url href="/google.com/accounts/announcements/12343128"/>
+      </url>
+      <url href="/google.com/accounts/answer">
+        <url href="/google.com/accounts/answer/32050"/>
+        <url href="/google.com/accounts/answer/39612"/>
+        <url href="/google.com/accounts/answer/27441"/>
+        <url href="/google.com/accounts/answer/32040"/>
+        <url href="/google.com/accounts/answer/114129"/>
+        <url href="/google.com/accounts/answer/6304920"/>
+        <url href="/google.com/accounts/answer/58585"/>
+        <url href="/google.com/accounts/answer/3265955"/>
+        <url href="/google.com/accounts/answer/3118687"/>
+        <url href="/google.com/accounts/answer/183723"/>
+        <url href="/google.com/accounts/answer/7682439"/>
+        <url href="/google.com/accounts/answer/54068"/>
+      </url>
+    </url>
+    <url href="/google.com/chrome">
+      <url href="/google.com/chrome/answer">
+        <url href="/google.com/chrome/answer/95647"/>
+        <url href="/google.com/chrome/answer/95464"/>
+      </url>
+      <url href="/google.com/chrome/"/>
+      <url href="/google.com/chrome/a">
+        <url href="/google.com/chrome/a/"/>
+      </url>
+      <url href="/google.com/chrome/browser-tools">
+        <url href="/google.com/chrome/browser-tools/"/>
+      </url>
+      <url href="/google.com/chrome/browser-features">
+        <url href="/google.com/chrome/browser-features/"/>
+      </url>
+      <url href="/google.com/chrome/privacy-on-the-web">
+        <url href="/google.com/chrome/privacy-on-the-web/"/>
+      </url>
+      <url href="/google.com/chrome/tips">
+        <url href="/google.com/chrome/tips/"/>
+      </url>
+      <url href="/google.com/chrome/update">
+        <url href="/google.com/chrome/update/"/>
+      </url>
+      <url href="/google.com/chrome/terms">
+        <url href="/google.com/chrome/terms/"/>
+      </url>
+      <url href="/google.com/chrome/explore-privacy">
+        <url href="/google.com/chrome/explore-privacy/"/>
+      </url>
+      <url href="/google.com/chrome/dev">
+        <url href="/google.com/chrome/dev/"/>
+      </url>
+      <url href="/google.com/chrome/beta">
+        <url href="/google.com/chrome/beta/"/>
+      </url>
+      <url href="/google.com/chrome/canary">
+        <url href="/google.com/chrome/canary/"/>
+      </url>
+      <url href="/google.com/chrome/privacy">
+        <url href="/google.com/chrome/privacy/"/>
+      </url>
+    </url>
+    <url href="/google.com/websearch">
+      <url href="/google.com/websearch/"/>
+      <url href="/google.com/websearch/community"/>
+      <url href="/google.com/websearch/announcements">
+        <url href="/google.com/websearch/announcements/9587893"/>
+      </url>
+      <url href="/google.com/websearch/answer">
+        <url href="/google.com/websearch/answer/6096136"/>
+        <url href="/google.com/websearch/answer/179386"/>
+        <url href="/google.com/websearch/answer/106230"/>
+        <url href="/google.com/websearch/answer/54068"/>
+        <url href="/google.com/websearch/answer/2819496"/>
+        <url href="/google.com/websearch/answer/7539151"/>
+        <url href="/google.com/websearch/answer/2940021"/>
+        <url href="/google.com/websearch/answer/12719076"/>
+        <url href="/google.com/websearch/answer/134479"/>
+        <url href="/google.com/websearch/answer/142143"/>
+        <url href="/google.com/websearch/answer/181196"/>
+        <url href="/google.com/websearch/answer/1710607"/>
+        <url href="/google.com/websearch/answer/1687222"/>
+        <url href="/google.com/websearch/answer/7315336"/>
+        <url href="/google.com/websearch/answer/7568277"/>
+        <url href="/google.com/websearch/answer/4540094"/>
+        <url href="/google.com/websearch/answer/9836344"/>
+        <url href="/google.com/websearch/answer/10563935"/>
+        <url href="/google.com/websearch/answer/11127743"/>
+        <url href="/google.com/websearch/answer/11216447"/>
+        <url href="/google.com/websearch/answer/12003459"/>
+        <url href="/google.com/websearch/answer/12395529"/>
+        <url href="/google.com/websearch/answer/2390267"/>
+        <url href="/google.com/websearch/answer/6380730"/>
+        <url href="/google.com/websearch/answer/6350733"/>
+        <url href="/google.com/websearch/answer/2649515"/>
+        <url href="/google.com/websearch/answer/7674111"/>
+        <url href="/google.com/websearch/answer/9049144"/>
+        <url href="/google.com/websearch/answer/9723144"/>
+        <url href="/google.com/websearch/answer/9817187"/>
+        <url href="/google.com/websearch/answer/4628134"/>
+        <url href="/google.com/websearch/answer/112511"/>
+        <url href="/google.com/websearch/answer/1325808"/>
+        <url href="/google.com/websearch/answer/112568"/>
+        <url href="/google.com/websearch/answer/29508"/>
+        <url href="/google.com/websearch/answer/175288"/>
+        <url href="/google.com/websearch/answer/185515"/>
+        <url href="/google.com/websearch/answer/9789430"/>
+        <url href="/google.com/websearch/answer/10017274"/>
+        <url href="/google.com/websearch/answer/9910360"/>
+        <url href="/google.com/websearch/answer/10477665"/>
+        <url href="/google.com/websearch/answer/10410942"/>
+        <url href="/google.com/websearch/answer/10500950"/>
+        <url href="/google.com/websearch/answer/12997189"/>
+        <url href="/google.com/websearch/answer/510"/>
+        <url href="/google.com/websearch/answer/186669"/>
+        <url href="/google.com/websearch/answer/6139018"/>
+        <url href="/google.com/websearch/answer/10909618"/>
+        <url href="/google.com/websearch/answer/3118687"/>
+        <url href="/google.com/websearch/answer/12410098"/>
+        <url href="/google.com/websearch/answer/12412910"/>
+        <url href="/google.com/websearch/answer/13005558"/>
+        <url href="/google.com/websearch/answer/3284611"/>
+        <url href="/google.com/websearch/answer/7579076"/>
+        <url href="/google.com/websearch/answer/2466433"/>
+        <url href="/google.com/websearch/answer/9217379"/>
+        <url href="/google.com/websearch/answer/4815696"/>
+        <url href="/google.com/websearch/answer/35890"/>
+        <url href="/google.com/websearch/answer/9250033"/>
+        <url href="/google.com/websearch/answer/9879130"/>
+        <url href="/google.com/websearch/answer/10212341"/>
+        <url href="/google.com/websearch/answer/7554088"/>
+        <url href="/google.com/websearch/answer/11315137"/>
+        <url href="/google.com/websearch/answer/11330383"/>
+        <url href="/google.com/websearch/answer/11459602"/>
+        <url href="/google.com/websearch/answer/13128452"/>
+        <url href="/google.com/websearch/answer/12768908"/>
+        <url href="/google.com/websearch/answer/13485060"/>
+        <url href="/google.com/websearch/answer/13600330"/>
+        <url href="/google.com/websearch/answer/463"/>
+        <url href="/google.com/websearch/answer/464"/>
+        <url href="/google.com/websearch/answer/9208897"/>
+        <url href="/google.com/websearch/answer/2539428"/>
+        <url href="/google.com/websearch/answer/3333234"/>
+        <url href="/google.com/websearch/answer/6135999"/>
+        <url href="/google.com/websearch/answer/9504726"/>
+        <url href="/google.com/websearch/answer/9507369"/>
+        <url href="/google.com/websearch/answer/9503395"/>
+        <url href="/google.com/websearch/answer/10269376"/>
+        <url href="/google.com/websearch/answer/10633314"/>
+        <url href="/google.com/websearch/answer/13511324"/>
+        <url href="/google.com/websearch/answer/13551902"/>
+        <url href="/google.com/websearch/answer/13572151"/>
+        <url href="/google.com/websearch/answer/13572013"/>
+      </url>
+      <url href="/google.com/websearch/troubleshooter">
+        <url href="/google.com/websearch/troubleshooter/3111061"/>
+      </url>
+      <url href="/google.com/websearch/topic">
+        <url href="/google.com/websearch/topic/3425345"/>
+        <url href="/google.com/websearch/topic/9255577"/>
+        <url href="/google.com/websearch/topic/9255578"/>
+        <url href="/google.com/websearch/topic/4409793"/>
+        <url href="/google.com/websearch/topic/6011752"/>
+        <url href="/google.com/websearch/topic/9749819"/>
+        <url href="/google.com/websearch/topic/2365089"/>
+        <url href="/google.com/websearch/topic/9153329"/>
+      </url>
+    </url>
+    <url href="/google.com/support_portal"/>
+    <url href="/google.com/youtube">
+      <url href="/google.com/youtube/"/>
+    </url>
+    <url href="/google.com/mail">
+      <url href="/google.com/mail/"/>
+    </url>
+    <url href="/google.com/googleplay">
+      <url href="/google.com/googleplay/"/>
+      <url href="/google.com/googleplay/android-developer">
+        <url href="/google.com/googleplay/android-developer/"/>
+      </url>
+    </url>
+    <url href="/google.com/adsense">
+      <url href="/google.com/adsense/"/>
+    </url>
+    <url href="/google.com/pixelphone">
+      <url href="/google.com/pixelphone/"/>
+    </url>
+    <url href="/google.com/maps">
+      <url href="/google.com/maps/"/>
+    </url>
+    <url href="/google.com/googlecloud">
+      <url href="/google.com/googlecloud/"/>
+    </url>
+    <url href="/google.com/google-ads">
+      <url href="/google.com/google-ads/"/>
+      <url href="/google.com/google-ads/editor">
+        <url href="/google.com/google-ads/editor/"/>
+      </url>
+    </url>
+    <url href="/google.com/photos">
+      <url href="/google.com/photos/"/>
+    </url>
+    <url href="/google.com/families">
+      <url href="/google.com/families/"/>
+    </url>
+    <url href="/google.com/fi">
+      <url href="/google.com/fi/"/>
+    </url>
+    <url href="/google.com/googlenest">
+      <url href="/google.com/googlenest/"/>
+    </url>
+    <url href="/google.com/googlepay">
+      <url href="/google.com/googlepay/"/>
+    </url>
+    <url href="/google.com/store">
+      <url href="/google.com/store/"/>
+    </url>
+    <url href="/google.com/drive">
+      <url href="/google.com/drive/"/>
+    </url>
+    <url href="/google.com/googleshopping">
+      <url href="/google.com/googleshopping/"/>
+    </url>
+    <url href="/google.com/accessibility">
+      <url href="/google.com/accessibility/"/>
+      <url href="/google.com/accessibility/products-features">
+        <url href="/google.com/accessibility/products-features/"/>
+      </url>
+      <url href="/google.com/accessibility/for-developers">
+        <url href="/google.com/accessibility/for-developers/"/>
+      </url>
+      <url href="/google.com/accessibility/customers-partners">
+        <url href="/google.com/accessibility/customers-partners/"/>
+      </url>
+      <url href="/google.com/accessibility/initiatives-research">
+        <url href="/google.com/accessibility/initiatives-research/"/>
+      </url>
+      <url href="/google.com/accessibility/get-in-touch">
+        <url href="/google.com/accessibility/get-in-touch/"/>
+      </url>
+      <url href="/google.com/accessibility/static">
+        <url href="/google.com/accessibility/static/pdf">
+          <url href="/google.com/accessibility/static/pdf/google-assignments-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-calendar-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-chrome-macos-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-chrome-windows-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-chromeos-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-cloud-search-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-contacts-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-docs-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-drawings-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-drive-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-drive-for-desktop-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-forms-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/gmail-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-admin-console-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-apps-script-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-chat-mobile-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-chat-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-classroom-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-cloud-cli-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-groups-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-meet-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-qwiklabs-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-tasks-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-keep-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-messages-for-web-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-sheets-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-sites-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-slides-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-vault-vpat.pdf"/>
+          <url href="/google.com/accessibility/static/pdf/google-voice-vpat.pdf"/>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/blogger">
+      <url href="/google.com/blogger/"/>
+    </url>
+    <url href="/google.com/finance">
+      <url href="/google.com/finance/"/>
+    </url>
+    <url href="/google.com/earth">
+      <url href="/google.com/earth/"/>
+    </url>
+    <url href="/google.com/picasa">
+      <url href="/google.com/picasa/"/>
+    </url>
+    <url href="/google.com/toolbar">
+      <url href="/google.com/toolbar/"/>
+    </url>
+    <url href="/google.com/calendar">
+      <url href="/google.com/calendar/"/>
+    </url>
+    <url href="/google.com/docs">
+      <url href="/google.com/docs/"/>
+      <url href="/google.com/docs/about">
+        <url href="/google.com/docs/about/"/>
+      </url>
+    </url>
+    <url href="/google.com/books">
+      <url href="/google.com/books/"/>
+      <url href="/google.com/books/partner">
+        <url href="/google.com/books/partner/"/>
+      </url>
+    </url>
+    <url href="/google.com/groups">
+      <url href="/google.com/groups/"/>
+    </url>
+    <url href="/google.com/trends">
+      <url href="/google.com/trends/"/>
+      <url href="/google.com/trends/home"/>
+    </url>
+    <url href="/google.com/android">
+      <url href="/google.com/android/"/>
+    </url>
+    <url href="/google.com/sites">
+      <url href="/google.com/sites/"/>
+    </url>
+    <url href="/google.com/voice">
+      <url href="/google.com/voice/"/>
+    </url>
+    <url href="/google.com/translate">
+      <url href="/google.com/translate/"/>
+    </url>
+    <url href="/google.com/chromebook">
+      <url href="/google.com/chromebook/"/>
+      <url href="/google.com/chromebook/chrome-os">
+        <url href="/google.com/chromebook/chrome-os/"/>
+      </url>
+      <url href="/google.com/chromebook/apps">
+        <url href="/google.com/chromebook/apps/"/>
+      </url>
+      <url href="/google.com/chromebook/howto">
+        <url href="/google.com/chromebook/howto/"/>
+        <url href="/google.com/chromebook/howto/get-started">
+          <url href="/google.com/chromebook/howto/get-started/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/edit-microsoft-office-files">
+          <url href="/google.com/chromebook/howto/edit-microsoft-office-files/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/download-apps">
+          <url href="/google.com/chromebook/howto/download-apps/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/set-up-offline-mode">
+          <url href="/google.com/chromebook/howto/set-up-offline-mode/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/email-offline">
+          <url href="/google.com/chromebook/howto/email-offline/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/caps-lock">
+          <url href="/google.com/chromebook/howto/caps-lock/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/search-anything">
+          <url href="/google.com/chromebook/howto/search-anything/"/>
+        </url>
+        <url href="/google.com/chromebook/howto/play-vainglory">
+          <url href="/google.com/chromebook/howto/play-vainglory/"/>
+        </url>
+      </url>
+      <url href="/google.com/chromebook/whatsnew">
+        <url href="/google.com/chromebook/whatsnew/"/>
+      </url>
+      <url href="/google.com/chromebook/accessibility">
+        <url href="/google.com/chromebook/accessibility/"/>
+      </url>
+      <url href="/google.com/chromebook/family-features">
+        <url href="/google.com/chromebook/family-features/"/>
+      </url>
+      <url href="/google.com/chromebook/switch-qa">
+        <url href="/google.com/chromebook/switch-qa/"/>
+      </url>
+      <url href="/google.com/chromebook/switch">
+        <url href="/google.com/chromebook/switch/"/>
+      </url>
+      <url href="/google.com/chromebook/the-adulthood">
+        <url href="/google.com/chromebook/the-adulthood/"/>
+      </url>
+      <url href="/google.com/chromebook/discover">
+        <url href="/google.com/chromebook/discover/"/>
+        <url href="/google.com/chromebook/discover/gaming">
+          <url href="/google.com/chromebook/discover/gaming/"/>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-acer-chromebook-516-ge">
+          <url href="/google.com/chromebook/discover/pdp-acer-chromebook-516-ge/sku-acer-chromebook-516-ge-8gb-256gb">
+            <url href="/google.com/chromebook/discover/pdp-acer-chromebook-516-ge/sku-acer-chromebook-516-ge-8gb-256gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-asus-chromebook-vibe-cx34-flip">
+          <url href="/google.com/chromebook/discover/pdp-asus-chromebook-vibe-cx34-flip/sku-asus-chromebook-vibe-cx34-flip-premium-intelcore-i5-8gb-256gb">
+            <url href="/google.com/chromebook/discover/pdp-asus-chromebook-vibe-cx34-flip/sku-asus-chromebook-vibe-cx34-flip-premium-intelcore-i5-8gb-256gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-hp-dragonfly-pro-chromebook">
+          <url href="/google.com/chromebook/discover/pdp-hp-dragonfly-pro-chromebook/sku-dragonfly-pro-chromebook-intelcore-i5-16gb-256gb">
+            <url href="/google.com/chromebook/discover/pdp-hp-dragonfly-pro-chromebook/sku-dragonfly-pro-chromebook-intelcore-i5-16gb-256gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-ideapad-gaming-chromebook-16">
+          <url href="/google.com/chromebook/discover/pdp-ideapad-gaming-chromebook-16/sku-ideapad-gaming-chromebook-16-8gb-128gb">
+            <url href="/google.com/chromebook/discover/pdp-ideapad-gaming-chromebook-16/sku-ideapad-gaming-chromebook-16-8gb-128gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-acer-chromebook-spin-714">
+          <url href="/google.com/chromebook/discover/pdp-acer-chromebook-spin-714/sku-acer-chromebook-spin-714-premium-intel-core-i5-8gb-256gb">
+            <url href="/google.com/chromebook/discover/pdp-acer-chromebook-spin-714/sku-acer-chromebook-spin-714-premium-intel-core-i5-8gb-256gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-lenovo-chromebook-duet-5">
+          <url href="/google.com/chromebook/discover/pdp-lenovo-chromebook-duet-5/sku-lenovo-chromebook-duet-5-plus-8gb-128gb">
+            <url href="/google.com/chromebook/discover/pdp-lenovo-chromebook-duet-5/sku-lenovo-chromebook-duet-5-plus-8gb-128gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-lenovo-flex-5i-chromebook">
+          <url href="/google.com/chromebook/discover/pdp-lenovo-flex-5i-chromebook/sku-lenovo-flex-5i-chromebook-plus-4gb-64gb">
+            <url href="/google.com/chromebook/discover/pdp-lenovo-flex-5i-chromebook/sku-lenovo-flex-5i-chromebook-plus-4gb-64gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-asus-chromebook-flip-cx5">
+          <url href="/google.com/chromebook/discover/pdp-asus-chromebook-flip-cx5/sku-asus-chromebook-flip-cx5-premium-8gb-128gb">
+            <url href="/google.com/chromebook/discover/pdp-asus-chromebook-flip-cx5/sku-asus-chromebook-flip-cx5-premium-8gb-128gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-asus-chromebookvibe-cx55-flip">
+          <url href="/google.com/chromebook/discover/pdp-asus-chromebookvibe-cx55-flip/sku-asus-chromebook-vibe-cx55-flip-16gb-256gb">
+            <url href="/google.com/chromebook/discover/pdp-asus-chromebookvibe-cx55-flip/sku-asus-chromebook-vibe-cx55-flip-16gb-256gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-2">
+          <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-2/sku-samsung-galaxy-chromebook-2-premium-8gb-128gb">
+            <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-2/sku-samsung-galaxy-chromebook-2-premium-8gb-128gb/"/>
+          </url>
+        </url>
+        <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-go">
+          <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-go/sku-samsung-galaxy-chromebook-go-basic-4gb-32gb">
+            <url href="/google.com/chromebook/discover/pdp-samsung-galaxy-chromebook-go/sku-samsung-galaxy-chromebook-go-basic-4gb-32gb/"/>
+          </url>
+        </url>
+      </url>
+      <url href="/google.com/chromebook/perks">
+        <url href="/google.com/chromebook/perks/"/>
+      </url>
+      <url href="/google.com/chromebook/workswithchromebook">
+        <url href="/google.com/chromebook/workswithchromebook/"/>
+      </url>
+      <url href="/google.com/chromebook/10th-birthday">
+        <url href="/google.com/chromebook/10th-birthday/"/>
+      </url>
+      <url href="/google.com/chromebook/pdp-framework-laptop-chromebook-edition">
+        <url href="/google.com/chromebook/pdp-framework-laptop-chromebook-edition/sku-framework-laptop-chromebook-edition-premium-intel-core-i5-8gb-256gb">
+          <url href="/google.com/chromebook/pdp-framework-laptop-chromebook-edition/sku-framework-laptop-chromebook-edition-premium-intel-core-i5-8gb-256gb/"/>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/googletv">
+      <url href="/google.com/googletv/"/>
+    </url>
+    <url href="/google.com/mymaps">
+      <url href="/google.com/mymaps/"/>
+    </url>
+    <url href="/google.com/chrome_webstore">
+      <url href="/google.com/chrome_webstore/"/>
+    </url>
+    <url href="/google.com/travel">
+      <url href="/google.com/travel/"/>
+      <url href="/google.com/travel/explore"/>
+      <url href="/google.com/travel/things-to-do"/>
+      <url href="/google.com/travel/flights"/>
+      <url href="/google.com/travel/hotels"/>
+    </url>
+    <url href="/google.com/fiber">
+      <url href="/google.com/fiber/"/>
+    </url>
+    <url href="/google.com/nexus">
+      <url href="/google.com/nexus/"/>
+    </url>
+    <url href="/google.com/ads">
+      <url href="/google.com/ads/"/>
+    </url>
+    <url href="/google.com/nikcollection">
+      <url href="/google.com/nikcollection/"/>
+    </url>
+    <url href="/google.com/chromecast">
+      <url href="/google.com/chromecast/"/>
+    </url>
+    <url href="/google.com/snapseed">
+      <url href="/google.com/snapseed/"/>
+    </url>
+    <url href="/google.com/keep">
+      <url href="/google.com/keep/"/>
+    </url>
+    <url href="/google.com/starbuckswifi">
+      <url href="/google.com/starbuckswifi/"/>
+    </url>
+    <url href="/google.com/waze">
+      <url href="/google.com/waze/"/>
+    </url>
+    <url href="/google.com/wearos">
+      <url href="/google.com/wearos/"/>
+    </url>
+    <url href="/google.com/fit">
+      <url href="/google.com/fit/"/>
+    </url>
+    <url href="/google.com/youtubekids">
+      <url href="/google.com/youtubekids/"/>
+    </url>
+    <url href="/google.com/chromecastbuiltin">
+      <url href="/google.com/chromecastbuiltin/"/>
+    </url>
+    <url href="/google.com/androidauto">
+      <url href="/google.com/androidauto/"/>
+    </url>
+    <url href="/google.com/androidtv">
+      <url href="/google.com/androidtv/"/>
+    </url>
+    <url href="/google.com/googlecamera">
+      <url href="/google.com/googlecamera/"/>
+    </url>
+    <url href="/google.com/wifi">
+      <url href="/google.com/wifi/"/>
+    </url>
+    <url href="/google.com/local-guides">
+      <url href="/google.com/local-guides/"/>
+    </url>
+    <url href="/google.com/youtubemusic">
+      <url href="/google.com/youtubemusic/"/>
+    </url>
+    <url href="/google.com/youtubecreatorstudio">
+      <url href="/google.com/youtubecreatorstudio/"/>
+    </url>
+    <url href="/google.com/cardboard">
+      <url href="/google.com/cardboard/"/>
+      <url href="/google.com/cardboard/manufacturers">
+        <url href="/google.com/cardboard/manufacturers/"/>
+      </url>
+    </url>
+    <url href="/google.com/duo">
+      <url href="/google.com/duo/"/>
+    </url>
+    <url href="/google.com/datally">
+      <url href="/google.com/datally/"/>
+      <url href="/google.com/datally/invalid"/>
+      <url href="/google.com/datally/answer">
+        <url href="/google.com/datally/answer/7052972"/>
+        <url href="/google.com/datally/answer/7569992"/>
+        <url href="/google.com/datally/answer/7053780"/>
+        <url href="/google.com/datally/answer/7568288"/>
+        <url href="/google.com/datally/answer/7582144"/>
+        <url href="/google.com/datally/answer/9043192"/>
+        <url href="/google.com/datally/answer/9043466"/>
+        <url href="/google.com/datally/answer/9044814"/>
+        <url href="/google.com/datally/answer/9044815"/>
+        <url href="/google.com/datally/answer/9088531"/>
+        <url href="/google.com/datally/answer/9101056"/>
+        <url href="/google.com/datally/answer/9165629"/>
+      </url>
+    </url>
+    <url href="/google.com/youtubetv">
+      <url href="/google.com/youtubetv/"/>
+    </url>
+    <url href="/google.com/googleclips">
+      <url href="/google.com/googleclips/"/>
+    </url>
+    <url href="/google.com/opinionrewards">
+      <url href="/google.com/opinionrewards/"/>
+    </url>
+    <url href="/google.com/daydream">
+      <url href="/google.com/daydream/"/>
+    </url>
+    <url href="/google.com/assistant">
+      <url href="/google.com/assistant/"/>
+    </url>
+    <url href="/google.com/files">
+      <url href="/google.com/files/"/>
+      <url href="/google.com/files/Jamboard_Specs.pdf"/>
+    </url>
+    <url href="/google.com/csfirst">
+      <url href="/google.com/csfirst/"/>
+    </url>
+    <url href="/google.com/chat">
+      <url href="/google.com/chat/"/>
+    </url>
+    <url href="/google.com/pixelbook">
+      <url href="/google.com/pixelbook/"/>
+    </url>
+    <url href="/google.com/messages">
+      <url href="/google.com/messages/"/>
+    </url>
+    <url href="/google.com/reserve">
+      <url href="/google.com/reserve/"/>
+    </url>
+    <url href="/google.com/phoneapp">
+      <url href="/google.com/phoneapp/"/>
+    </url>
+    <url href="/google.com/gboard">
+      <url href="/google.com/gboard/"/>
+    </url>
+    <url href="/google.com/contacts">
+      <url href="/google.com/contacts/"/>
+    </url>
+    <url href="/google.com/googleone">
+      <url href="/google.com/googleone/"/>
+    </url>
+    <url href="/google.com/tasks">
+      <url href="/google.com/tasks/"/>
+    </url>
+    <url href="/google.com/googlenews">
+      <url href="/google.com/googlenews/"/>
+    </url>
+    <url href="/google.com/sciencejournal">
+      <url href="/google.com/sciencejournal/"/>
+    </url>
+    <url href="/google.com/stadia">
+      <url href="/google.com/stadia/"/>
+    </url>
+    <url href="/google.com/foodordering">
+      <url href="/google.com/foodordering/"/>
+    </url>
+    <url href="/google.com/kidsspace">
+      <url href="/google.com/kidsspace/"/>
+    </url>
+    <url href="/google.com/user-security">
+      <url href="/google.com/user-security/"/>
+    </url>
+    <url href="/google.com/google-workspace-individual">
+      <url href="/google.com/google-workspace-individual/"/>
+    </url>
+    <url href="/google.com/googlepixelwatch">
+      <url href="/google.com/googlepixelwatch/"/>
+    </url>
+    <url href="/google.com/wallet">
+      <url href="/google.com/wallet/"/>
+    </url>
+    <url href="/google.com/ar">
+      <url href="/google.com/ar/"/>
+    </url>
+    <url href="/google.com/a">
+      <url href="/google.com/a/"/>
+      <url href="/google.com/a/users">
+        <url href="/google.com/a/users/"/>
+      </url>
+    </url>
+    <url href="/google.com/webmasters">
+      <url href="/google.com/webmasters/"/>
+    </url>
+    <url href="/google.com/programmable-search">
+      <url href="/google.com/programmable-search/"/>
+    </url>
+    <url href="/google.com/news">
+      <url href="/google.com/news/publisher-center">
+        <url href="/google.com/news/publisher-center/"/>
+      </url>
+    </url>
+    <url href="/google.com/grants">
+      <url href="/google.com/grants/"/>
+      <url href="/google.com/grants/get-started">
+        <url href="/google.com/grants/get-started/"/>
+      </url>
+      <url href="/google.com/grants/get-help">
+        <url href="/google.com/grants/get-help/"/>
+        <url href="/google.com/grants/get-help/nonprofit-marketing-immersion">
+          <url href="/google.com/grants/get-help/nonprofit-marketing-immersion/"/>
+        </url>
+        <url href="/google.com/grants/get-help/certified-professional-agencies">
+          <url href="/google.com/grants/get-help/certified-professional-agencies/"/>
+          <url href="/google.com/grants/get-help/certified-professional-agencies/{a%20resource.link.url%20a}"/>
+        </url>
+        <url href="/google.com/grants/get-help/{a%20resource.link.url%20a}"/>
+      </url>
+      <url href="/google.com/grants/program">
+        <url href="/google.com/grants/program/"/>
+      </url>
+      <url href="/google.com/grants/faq">
+        <url href="/google.com/grants/faq/"/>
+      </url>
+    </url>
+    <url href="/google.com/richmedia">
+      <url href="/google.com/richmedia/"/>
+    </url>
+    <url href="/google.com/authorizedbuyers">
+      <url href="/google.com/authorizedbuyers/"/>
+    </url>
+    <url href="/google.com/mapcontentpartners">
+      <url href="/google.com/mapcontentpartners/"/>
+    </url>
+    <url href="/google.com/merchants">
+      <url href="/google.com/merchants/"/>
+    </url>
+    <url href="/google.com/admanager">
+      <url href="/google.com/admanager/"/>
+    </url>
+    <url href="/google.com/analytics">
+      <url href="/google.com/analytics/"/>
+    </url>
+    <url href="/google.com/googlecurrents">
+      <url href="/google.com/googlecurrents/"/>
+    </url>
+    <url href="/google.com/transitpartners">
+      <url href="/google.com/transitpartners/"/>
+    </url>
+    <url href="/google.com/globalmarketfinder">
+      <url href="/google.com/globalmarketfinder/"/>
+    </url>
+    <url href="/google.com/nonprofits">
+      <url href="/google.com/nonprofits/"/>
+      <url href="/google.com/nonprofits/offerings">
+        <url href="/google.com/nonprofits/offerings/workspace">
+          <url href="/google.com/nonprofits/offerings/workspace/"/>
+        </url>
+        <url href="/google.com/nonprofits/offerings/google-ad-grants">
+          <url href="/google.com/nonprofits/offerings/google-ad-grants/"/>
+        </url>
+        <url href="/google.com/nonprofits/offerings/youtube-nonprofit-program">
+          <url href="/google.com/nonprofits/offerings/youtube-nonprofit-program/"/>
+        </url>
+        <url href="/google.com/nonprofits/offerings/google-earth-and-maps">
+          <url href="/google.com/nonprofits/offerings/google-earth-and-maps/"/>
+        </url>
+      </url>
+      <url href="/google.com/nonprofits/eligibility">
+        <url href="/google.com/nonprofits/eligibility/"/>
+      </url>
+      <url href="/google.com/nonprofits/resources">
+        <url href="/google.com/nonprofits/resources/product-help">
+          <url href="/google.com/nonprofits/resources/product-help/"/>
+        </url>
+        <url href="/google.com/nonprofits/resources/how-to-guide">
+          <url href="/google.com/nonprofits/resources/how-to-guide/"/>
+          <url href="/google.com/nonprofits/resources/how-to-guide/manage-your-volunteers">
+            <url href="/google.com/nonprofits/resources/how-to-guide/manage-your-volunteers/"/>
+          </url>
+          <url href="/google.com/nonprofits/resources/how-to-guide/be-productive-and-collaborative">
+            <url href="/google.com/nonprofits/resources/how-to-guide/be-productive-and-collaborative/"/>
+          </url>
+          <url href="/google.com/nonprofits/resources/how-to-guide/coordinate-your-nonprofit-board">
+            <url href="/google.com/nonprofits/resources/how-to-guide/coordinate-your-nonprofit-board/"/>
+          </url>
+          <url href="/google.com/nonprofits/resources/how-to-guide/get-your-nonprofit-on-youtube">
+            <url href="/google.com/nonprofits/resources/how-to-guide/get-your-nonprofit-on-youtube/"/>
+          </url>
+          <url href="/google.com/nonprofits/resources/how-to-guide/googleanalytics">
+            <url href="/google.com/nonprofits/resources/how-to-guide/googleanalytics/"/>
+          </url>
+        </url>
+        <url href="/google.com/nonprofits/resources/certified-product-partners">
+          <url href="/google.com/nonprofits/resources/certified-product-partners/"/>
+        </url>
+        <url href="/google.com/nonprofits/resources/faq">
+          <url href="/google.com/nonprofits/resources/faq/"/>
+        </url>
+        <url href="/google.com/nonprofits/resources/coronavirus">
+          <url href="/google.com/nonprofits/resources/coronavirus/"/>
+        </url>
+      </url>
+      <url href="/google.com/nonprofits/success-stories">
+        <url href="/google.com/nonprofits/success-stories/"/>
+        <url href="/google.com/nonprofits/success-stories/thrive-dc">
+          <url href="/google.com/nonprofits/success-stories/thrive-dc/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/van-gogh-museum">
+          <url href="/google.com/nonprofits/success-stories/van-gogh-museum/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/rnli">
+          <url href="/google.com/nonprofits/success-stories/rnli/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/jane-goodall">
+          <url href="/google.com/nonprofits/success-stories/jane-goodall/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/charity-water">
+          <url href="/google.com/nonprofits/success-stories/charity-water/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/worldgames">
+          <url href="/google.com/nonprofits/success-stories/worldgames/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/direct-relief">
+          <url href="/google.com/nonprofits/success-stories/direct-relief/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/kiva">
+          <url href="/google.com/nonprofits/success-stories/kiva/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/fundacion-todo-mejora">
+          <url href="/google.com/nonprofits/success-stories/fundacion-todo-mejora/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/girl-scouts-of-japan">
+          <url href="/google.com/nonprofits/success-stories/girl-scouts-of-japan/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/surui-tribe">
+          <url href="/google.com/nonprofits/success-stories/surui-tribe/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/water-aid">
+          <url href="/google.com/nonprofits/success-stories/water-aid/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/defense-council">
+          <url href="/google.com/nonprofits/success-stories/defense-council/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/crime-victims">
+          <url href="/google.com/nonprofits/success-stories/crime-victims/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/nuru">
+          <url href="/google.com/nonprofits/success-stories/nuru/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/switchboard">
+          <url href="/google.com/nonprofits/success-stories/switchboard/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/action-against-hunger">
+          <url href="/google.com/nonprofits/success-stories/action-against-hunger/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/anaheim-ballet">
+          <url href="/google.com/nonprofits/success-stories/anaheim-ballet/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/canada-learning-code">
+          <url href="/google.com/nonprofits/success-stories/canada-learning-code/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/foodfinder">
+          <url href="/google.com/nonprofits/success-stories/foodfinder/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/go-volunteer">
+          <url href="/google.com/nonprofits/success-stories/go-volunteer/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/navigators-usa">
+          <url href="/google.com/nonprofits/success-stories/navigators-usa/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/reimagine-atl">
+          <url href="/google.com/nonprofits/success-stories/reimagine-atl/"/>
+        </url>
+        <url href="/google.com/nonprofits/success-stories/witness">
+          <url href="/google.com/nonprofits/success-stories/witness/"/>
+        </url>
+      </url>
+      <url href="/google.com/nonprofits/workspace">
+        <url href="/google.com/nonprofits/workspace/compare">
+          <url href="/google.com/nonprofits/workspace/compare/"/>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/searchads">
+      <url href="/google.com/searchads/"/>
+    </url>
+    <url href="/google.com/admob">
+      <url href="/google.com/admob/"/>
+      <url href="/google.com/admob/home">
+        <url href="/google.com/admob/home/bidding">
+          <url href="/google.com/admob/home/bidding/what-is-bidding">
+            <url href="/google.com/admob/home/bidding/what-is-bidding/"/>
+          </url>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/vault">
+      <url href="/google.com/vault/"/>
+    </url>
+    <url href="/google.com/business">
+      <url href="/google.com/business/"/>
+      <url href="/google.com/business/small-business">
+        <url href="/google.com/business/small-business/"/>
+      </url>
+      <url href="/google.com/business/new-business">
+        <url href="/google.com/business/new-business/"/>
+      </url>
+      <url href="/google.com/business/startups">
+        <url href="/google.com/business/startups/"/>
+      </url>
+      <url href="/google.com/business/restaurants">
+        <url href="/google.com/business/restaurants/"/>
+      </url>
+      <url href="/google.com/business/retail">
+        <url href="/google.com/business/retail/"/>
+      </url>
+      <url href="/google.com/business/services">
+        <url href="/google.com/business/services/"/>
+      </url>
+      <url href="/google.com/business/resources">
+        <url href="/google.com/business/resources/"/>
+      </url>
+      <url href="/google.com/business/faq">
+        <url href="/google.com/business/faq/"/>
+      </url>
+    </url>
+    <url href="/google.com/hotelprices">
+      <url href="/google.com/hotelprices/"/>
+    </url>
+    <url href="/google.com/displayvideo">
+      <url href="/google.com/displayvideo/"/>
+    </url>
+    <url href="/google.com/campaignmanager">
+      <url href="/google.com/campaignmanager/"/>
+    </url>
+    <url href="/google.com/domains">
+      <url href="/google.com/domains/"/>
+    </url>
+    <url href="/google.com/pay">
+      <url href="/google.com/pay/merchants">
+        <url href="/google.com/pay/merchants/"/>
+      </url>
+      <url href="/google.com/pay/issuers">
+        <url href="/google.com/pay/issuers/"/>
+      </url>
+      <url href="/google.com/pay/business">
+        <url href="/google.com/pay/business/"/>
+      </url>
+      <url href="/google.com/pay/processors">
+        <url href="/google.com/pay/processors/"/>
+      </url>
+    </url>
+    <url href="/google.com/cloud">
+      <url href="/google.com/cloud/"/>
+    </url>
+    <url href="/google.com/culturalinstitute">
+      <url href="/google.com/culturalinstitute/partners">
+        <url href="/google.com/culturalinstitute/partners/"/>
+      </url>
+    </url>
+    <url href="/google.com/work">
+      <url href="/google.com/work/android">
+        <url href="/google.com/work/android/"/>
+      </url>
+    </url>
+    <url href="/google.com/cloudsearch">
+      <url href="/google.com/cloudsearch/"/>
+    </url>
+    <url href="/google.com/marketingplatform">
+      <url href="/google.com/marketingplatform/"/>
+    </url>
+    <url href="/google.com/meet">
+      <url href="/google.com/meet/"/>
+    </url>
+    <url href="/google.com/jamboard">
+      <url href="/google.com/jamboard/"/>
+      <url href="/google.com/jamboard/jamboard-sales@google.com"/>
+    </url>
+    <url href="/google.com/localservices">
+      <url href="/google.com/localservices/"/>
+    </url>
+    <url href="/google.com/workinsights">
+      <url href="/google.com/workinsights/"/>
+    </url>
+    <url href="/google.com/css-center">
+      <url href="/google.com/css-center/"/>
+    </url>
+    <url href="/google.com/elastifile-support">
+      <url href="/google.com/elastifile-support/"/>
+    </url>
+    <url href="/google.com/CEWA">
+      <url href="/google.com/CEWA/"/>
+    </url>
+    <url href="/google.com/appsheet">
+      <url href="/google.com/appsheet/"/>
+    </url>
+    <url href="/google.com/adscreativestudio">
+      <url href="/google.com/adscreativestudio/"/>
+    </url>
+    <url href="/google.com/orion-wifi">
+      <url href="/google.com/orion-wifi/"/>
+    </url>
+    <url href="/google.com/developergroups">
+      <url href="/google.com/developergroups/"/>
+    </url>
+    <url href="/google.com/webdesigner">
+      <url href="/google.com/webdesigner/"/>
+    </url>
+    <url href="/google.com/cast-developer">
+      <url href="/google.com/cast-developer/"/>
+    </url>
+    <url href="/google.com/recaptcha">
+      <url href="/google.com/recaptcha/"/>
+    </url>
+    <url href="/google.com/paymentscenter">
+      <url href="/google.com/paymentscenter/"/>
+    </url>
+    <url href="/google.com/sheets">
+      <url href="/google.com/sheets/about">
+        <url href="/google.com/sheets/about/"/>
+      </url>
+    </url>
+    <url href="/google.com/slides">
+      <url href="/google.com/slides/about">
+        <url href="/google.com/slides/about/"/>
+      </url>
+    </url>
+    <url href="/google.com/forms">
+      <url href="/google.com/forms/about">
+        <url href="/google.com/forms/about/"/>
+      </url>
+    </url>
+    <url href="/google.com/home">
+      <url href="/google.com/home/"/>
+      <url href="/google.com/home/how-it-works">
+        <url href="/google.com/home/how-it-works/"/>
+      </url>
+      <url href="/google.com/home/pricing">
+        <url href="/google.com/home/pricing/"/>
+      </url>
+      <url href="/google.com/home/faq">
+        <url href="/google.com/home/faq/"/>
+      </url>
+      <url href="/google.com/home/resources">
+        <url href="/google.com/home/resources/advanced">
+          <url href="/google.com/home/resources/advanced/"/>
+        </url>
+        <url href="/google.com/home/resources/"/>
+        <url href="/google.com/home/resources/rewarded-ads-win-for-everyone">
+          <url href="/google.com/home/resources/rewarded-ads-win-for-everyone/"/>
+        </url>
+        <url href="/google.com/home/resources/optimize-revenue-with-ad-mediation">
+          <url href="/google.com/home/resources/optimize-revenue-with-ad-mediation/"/>
+        </url>
+        <url href="/google.com/home/resources/monetize-mobile-game-with-ads">
+          <url href="/google.com/home/resources/monetize-mobile-game-with-ads/"/>
+        </url>
+      </url>
+      <url href="/google.com/home/contact-us">
+        <url href="/google.com/home/contact-us/"/>
+      </url>
+      <url href="/google.com/home/newsletter">
+        <url href="/google.com/home/newsletter/"/>
+      </url>
+      <url href="/google.com/home/admob-advantage">
+        <url href="/google.com/home/admob-advantage/"/>
+      </url>
+      <url href="/google.com/home/bidding">
+        <url href="/google.com/home/bidding/what-is-bidding">
+          <url href="/google.com/home/bidding/what-is-bidding/"/>
+        </url>
+        <url href="/google.com/home/bidding/how-to-set-up-bidding">
+          <url href="/google.com/home/bidding/how-to-set-up-bidding/"/>
+        </url>
+        <url href="/google.com/home/bidding/bidding-partners">
+          <url href="/google.com/home/bidding/bidding-partners/"/>
+        </url>
+      </url>
+      <url href="/google.com/home/get-started">
+        <url href="/google.com/home/get-started/"/>
+      </url>
+      <url href="/google.com/home/request-consult">
+        <url href="/google.com/home/request-consult/"/>
+      </url>
+      <url href="/google.com/home/games">
+        <url href="/google.com/home/games/"/>
+      </url>
+    </url>
+    <url href="/google.com/myfiber">
+      <url href="/google.com/myfiber/"/>
+    </url>
+    <url href="/google.com/cities">
+      <url href="/google.com/cities/atlanta">
+        <url href="/google.com/cities/atlanta/"/>
+      </url>
+      <url href="/google.com/cities/austin">
+        <url href="/google.com/cities/austin/"/>
+      </url>
+      <url href="/google.com/cities/chandler">
+        <url href="/google.com/cities/chandler/"/>
+      </url>
+      <url href="/google.com/cities/charlotte">
+        <url href="/google.com/cities/charlotte/"/>
+      </url>
+      <url href="/google.com/cities/councilbluffs">
+        <url href="/google.com/cities/councilbluffs/"/>
+      </url>
+      <url href="/google.com/cities/desmoines">
+        <url href="/google.com/cities/desmoines/"/>
+      </url>
+      <url href="/google.com/cities/huntsville">
+        <url href="/google.com/cities/huntsville/"/>
+      </url>
+      <url href="/google.com/cities/kansascity">
+        <url href="/google.com/cities/kansascity/"/>
+      </url>
+      <url href="/google.com/cities/lakewood">
+        <url href="/google.com/cities/lakewood/"/>
+      </url>
+      <url href="/google.com/cities/logan">
+        <url href="/google.com/cities/logan/"/>
+      </url>
+      <url href="/google.com/cities/mesa">
+        <url href="/google.com/cities/mesa/"/>
+      </url>
+      <url href="/google.com/cities/nashville">
+        <url href="/google.com/cities/nashville/"/>
+      </url>
+      <url href="/google.com/cities/omaha">
+        <url href="/google.com/cities/omaha/"/>
+      </url>
+      <url href="/google.com/cities/orangecounty">
+        <url href="/google.com/cities/orangecounty/"/>
+      </url>
+      <url href="/google.com/cities/pocatello">
+        <url href="/google.com/cities/pocatello/"/>
+      </url>
+      <url href="/google.com/cities/provo">
+        <url href="/google.com/cities/provo/"/>
+      </url>
+      <url href="/google.com/cities/saltlakecity">
+        <url href="/google.com/cities/saltlakecity/"/>
+      </url>
+      <url href="/google.com/cities/sanantonio">
+        <url href="/google.com/cities/sanantonio/"/>
+      </url>
+      <url href="/google.com/cities/triangle">
+        <url href="/google.com/cities/triangle/"/>
+      </url>
+      <url href="/google.com/cities/westdesmoines">
+        <url href="/google.com/cities/westdesmoines/"/>
+      </url>
+      <url href="/google.com/cities/westminster">
+        <url href="/google.com/cities/westminster/"/>
+      </url>
+    </url>
+    <url href="/google.com/internet">
+      <url href="/google.com/internet/"/>
+      <url href="/google.com/internet/gaming">
+        <url href="/google.com/internet/gaming/"/>
+      </url>
+      <url href="/google.com/internet/workfromhome">
+        <url href="/google.com/internet/workfromhome/"/>
+      </url>
+      <url href="/google.com/internet/learning">
+        <url href="/google.com/internet/learning/"/>
+      </url>
+    </url>
+    <url href="/google.com/tv">
+      <url href="/google.com/tv/"/>
+      <url href="/google.com/tv/products">
+        <url href="/google.com/tv/products/"/>
+      </url>
+    </url>
+    <url href="/google.com/phone">
+      <url href="/google.com/phone/"/>
+    </url>
+    <url href="/google.com/affordable-connectivity-program">
+      <url href="/google.com/affordable-connectivity-program/"/>
+    </url>
+    <url href="/google.com/properties">
+      <url href="/google.com/properties/"/>
+    </url>
+    <url href="/google.com/cityofficials">
+      <url href="/google.com/cityofficials/"/>
+    </url>
+    <url href="/google.com/faq">
+      <url href="/google.com/faq/"/>
+    </url>
+    <url href="/google.com/legal">
+      <url href="/google.com/legal/"/>
+      <url href="/google.com/legal/schedule">
+        <url href="/google.com/legal/schedule/"/>
+      </url>
+    </url>
+    <url href="/google.com/careers">
+      <url href="/google.com/careers/"/>
+    </url>
+    <url href="/google.com/community">
+      <url href="/google.com/community/"/>
+    </url>
+    <url href="/google.com/deib">
+      <url href="/google.com/deib/"/>
+    </url>
+    <url href="/google.com/cart"/>
+    <url href="/google.com/orderhistory"/>
+    <url href="/google.com/about">
+      <url href="/google.com/about/"/>
+      <url href="/google.com/about/small-business">
+        <url href="/google.com/about/small-business/"/>
+      </url>
+      <url href="/google.com/about/enterprise">
+        <url href="/google.com/about/enterprise/"/>
+      </url>
+      <url href="/google.com/about/resources">
+        <url href="/google.com/about/resources/"/>
+        <url href="/google.com/about/resources/lider-drives-in-app-purchases-at-a-lower-cpa-with-google-analytics">
+          <url href="/google.com/about/resources/lider-drives-in-app-purchases-at-a-lower-cpa-with-google-analytics/"/>
+        </url>
+        <url href="/google.com/about/resources/mcdonald-hong-kong-uses-google-analytics-4-to-increase-in-app-orders-by-550-percent">
+          <url href="/google.com/about/resources/mcdonald-hong-kong-uses-google-analytics-4-to-increase-in-app-orders-by-550-percent/"/>
+        </url>
+        <url href="/google.com/about/resources/analytics-data-controls-feature-brief">
+          <url href="/google.com/about/resources/analytics-data-controls-feature-brief/"/>
+        </url>
+        <url href="/google.com/about/resources/the-future-of-analytics">
+          <url href="/google.com/about/resources/the-future-of-analytics/"/>
+        </url>
+      </url>
+      <url href="/google.com/about/partners">
+        <url href="/google.com/about/partners/"/>
+      </url>
+      <url href="/google.com/about/support">
+        <url href="/google.com/about/support/"/>
+      </url>
+      <url href="/google.com/about/analytics">
+        <url href="/google.com/about/analytics/"/>
+        <url href="/google.com/about/analytics/benefits">
+          <url href="/google.com/about/analytics/benefits/"/>
+        </url>
+        <url href="/google.com/about/analytics/features">
+          <url href="/google.com/about/analytics/features/"/>
+        </url>
+      </url>
+      <url href="/google.com/about/optimize">
+        <url href="/google.com/about/optimize/"/>
+      </url>
+      <url href="/google.com/about/tag-manager">
+        <url href="/google.com/about/tag-manager/"/>
+      </url>
+      <url href="/google.com/about/campaign-manager-360">
+        <url href="/google.com/about/campaign-manager-360/"/>
+      </url>
+      <url href="/google.com/about/display-video-360">
+        <url href="/google.com/about/display-video-360/"/>
+      </url>
+      <url href="/google.com/about/search-ads-360">
+        <url href="/google.com/about/search-ads-360/"/>
+      </url>
+      <url href="/google.com/about/analytics-360">
+        <url href="/google.com/about/analytics-360/"/>
+        <url href="/google.com/about/analytics-360/features">
+          <url href="/google.com/about/analytics-360/features/"/>
+        </url>
+      </url>
+      <url href="/google.com/about/optimize-360">
+        <url href="/google.com/about/optimize-360/"/>
+      </url>
+      <url href="/google.com/about/tag-manager-360">
+        <url href="/google.com/about/tag-manager-360/"/>
+      </url>
+      <url href="/google.com/about/products">
+        <url href="/google.com/about/products/"/>
+      </url>
+      <url href="/google.com/about/commitments">
+        <url href="/google.com/about/commitments/"/>
+      </url>
+      <url href="/google.com/about/stories">
+        <url href="/google.com/about/stories/"/>
+        <url href="/google.com/about/stories/soundingthealarm">
+          <url href="/google.com/about/stories/soundingthealarm/"/>
+        </url>
+        <url href="/google.com/about/stories/lifebank">
+          <url href="/google.com/about/stories/lifebank/"/>
+        </url>
+        <url href="/google.com/about/stories/agoraphobic-traveller">
+          <url href="/google.com/about/stories/agoraphobic-traveller/"/>
+        </url>
+        <url href="/google.com/about/stories/clean-air-for-kampala">
+          <url href="/google.com/about/stories/clean-air-for-kampala/"/>
+        </url>
+      </url>
+      <url href="/google.com/about/contact-google">
+        <url href="/google.com/about/contact-google/"/>
+      </url>
+      <url href="/google.com/about/locations">
+        <url href="/google.com/about/locations/"/>
+      </url>
+      <url href="/google.com/about/extended-workforce">
+        <url href="/google.com/about/extended-workforce/"/>
+      </url>
+      <url href="/google.com/about/community-guidelines">
+        <url href="/google.com/about/community-guidelines/"/>
+      </url>
+      <url href="/google.com/about/how-our-business-works">
+        <url href="/google.com/about/how-our-business-works/"/>
+      </url>
+    </url>
+    <url href="/google.com/retail">
+      <url href="/google.com/retail/"/>
+      <url href="/google.com/retail/why-google">
+        <url href="/google.com/retail/why-google/"/>
+      </url>
+      <url href="/google.com/retail/solutions">
+        <url href="/google.com/retail/solutions/"/>
+        <url href="/google.com/retail/solutions/merchant-center">
+          <url href="/google.com/retail/solutions/merchant-center/"/>
+        </url>
+        <url href="/google.com/retail/solutions/listings">
+          <url href="/google.com/retail/solutions/listings/"/>
+        </url>
+        <url href="/google.com/retail/solutions/performance-max">
+          <url href="/google.com/retail/solutions/performance-max/"/>
+        </url>
+        <url href="/google.com/retail/solutions/discovery-ads">
+          <url href="/google.com/retail/solutions/discovery-ads/"/>
+        </url>
+        <url href="/google.com/retail/solutions/manufacturer-center">
+          <url href="/google.com/retail/solutions/manufacturer-center/"/>
+        </url>
+        <url href="/google.com/retail/solutions/local-inventory-ads">
+          <url href="/google.com/retail/solutions/local-inventory-ads/"/>
+        </url>
+        <url href="/google.com/retail/solutions/reach-audiences">
+          <url href="/google.com/retail/solutions/reach-audiences/"/>
+        </url>
+        <url href="/google.com/retail/solutions/spark-shoppers-interest">
+          <url href="/google.com/retail/solutions/spark-shoppers-interest/"/>
+        </url>
+        <url href="/google.com/retail/solutions/sell-internationally">
+          <url href="/google.com/retail/solutions/sell-internationally/"/>
+        </url>
+      </url>
+      <url href="/google.com/retail/resources">
+        <url href="/google.com/retail/resources/covid-19">
+          <url href="/google.com/retail/resources/covid-19/"/>
+        </url>
+        <url href="/google.com/retail/resources/"/>
+        <url href="/google.com/retail/resources/shopping-campaigns-holiday-ready.html"/>
+        <url href="/google.com/retail/resources/tips-for-product-approval.html"/>
+        <url href="/google.com/retail/resources/provide-high-quality-data.html"/>
+        <url href="/google.com/retail/resources/create-optimize-effective-shopping-campaigns.html"/>
+        <url href="/google.com/retail/resources/product-data-specification.html"/>
+        <url href="/google.com/retail/resources/capture-mobile-shoppers-with-shopping-campaigns.html"/>
+      </url>
+      <url href="/google.com/retail/success-stories">
+        <url href="/google.com/retail/success-stories/"/>
+      </url>
+      <url href="/google.com/retail/get-help">
+        <url href="/google.com/retail/get-help/"/>
+      </url>
+      <url href="/google.com/retail/get-started">
+        <url href="/google.com/retail/get-started/"/>
+      </url>
+    </url>
+    <url href="/google.com/features">
+      <url href="/google.com/features/"/>
+    </url>
+    <url href="/google.com/individual">
+      <url href="/google.com/individual/"/>
+    </url>
+    <url href="/google.com/enterprise">
+      <url href="/google.com/enterprise/"/>
+      <url href="/google.com/enterprise/frontline-workers">
+        <url href="/google.com/enterprise/frontline-workers/"/>
+      </url>
+      <url href="/google.com/enterprise/financialservices">
+        <url href="/google.com/enterprise/financialservices/"/>
+      </url>
+      <url href="/google.com/enterprise/security">
+        <url href="/google.com/enterprise/security/"/>
+      </url>
+      <url href="/google.com/enterprise/enrollment">
+        <url href="/google.com/enterprise/enrollment/"/>
+      </url>
+      <url href="/google.com/enterprise/management">
+        <url href="/google.com/enterprise/management/"/>
+      </url>
+      <url href="/google.com/enterprise/employees">
+        <url href="/google.com/enterprise/employees/"/>
+      </url>
+      <url href="/google.com/enterprise/essentials">
+        <url href="/google.com/enterprise/essentials/"/>
+      </url>
+      <url href="/google.com/enterprise/recommended">
+        <url href="/google.com/enterprise/recommended/"/>
+      </url>
+      <url href="/google.com/enterprise/devices">
+        <url href="/google.com/enterprise/devices/"/>
+      </url>
+      <url href="/google.com/enterprise/customers">
+        <url href="/google.com/enterprise/customers/"/>
+      </url>
+      <url href="/google.com/enterprise/demo">
+        <url href="/google.com/enterprise/demo/"/>
+      </url>
+      <url href="/google.com/enterprise/resources">
+        <url href="/google.com/enterprise/resources/"/>
+      </url>
+      <url href="/google.com/enterprise/partners">
+        <url href="/google.com/enterprise/partners/"/>
+      </url>
+      <url href="/google.com/enterprise/solutions-finder">
+        <url href="/google.com/enterprise/solutions-finder/"/>
+      </url>
+    </url>
+    <url href="/google.com/lp">
+      <url href="/google.com/lp/work-safer">
+        <url href="/google.com/lp/work-safer/"/>
+      </url>
+    </url>
+    <url href="/google.com/integrations">
+      <url href="/google.com/integrations/"/>
+    </url>
+    <url href="/google.com/products">
+      <url href="/google.com/products/gmail">
+        <url href="/google.com/products/gmail/"/>
+      </url>
+      <url href="/google.com/products/calendar">
+        <url href="/google.com/products/calendar/"/>
+      </url>
+      <url href="/google.com/products/drive">
+        <url href="/google.com/products/drive/"/>
+      </url>
+      <url href="/google.com/products/meet">
+        <url href="/google.com/products/meet/"/>
+      </url>
+      <url href="/google.com/products/docs">
+        <url href="/google.com/products/docs/"/>
+      </url>
+      <url href="/google.com/products/sheets">
+        <url href="/google.com/products/sheets/"/>
+      </url>
+      <url href="/google.com/products/slides">
+        <url href="/google.com/products/slides/"/>
+      </url>
+      <url href="/google.com/products/chat">
+        <url href="/google.com/products/chat/"/>
+      </url>
+      <url href="/google.com/products/admin">
+        <url href="/google.com/products/admin/"/>
+        <url href="/google.com/products/admin/endpoint">
+          <url href="/google.com/products/admin/endpoint/"/>
+        </url>
+      </url>
+      <url href="/google.com/products/forms">
+        <url href="/google.com/products/forms/"/>
+      </url>
+      <url href="/google.com/products/sites">
+        <url href="/google.com/products/sites/"/>
+      </url>
+      <url href="/google.com/products/keep">
+        <url href="/google.com/products/keep/"/>
+      </url>
+      <url href="/google.com/products/apps-script">
+        <url href="/google.com/products/apps-script/"/>
+      </url>
+      <url href="/google.com/products/cloud-search">
+        <url href="/google.com/products/cloud-search/"/>
+      </url>
+      <url href="/google.com/products/vault">
+        <url href="/google.com/products/vault/"/>
+      </url>
+      <url href="/google.com/products/workinsights">
+        <url href="/google.com/products/workinsights/"/>
+      </url>
+      <url href="/google.com/products/meet-hardware">
+        <url href="/google.com/products/meet-hardware/"/>
+      </url>
+      <url href="/google.com/products/jamboard">
+        <url href="/google.com/products/jamboard/"/>
+      </url>
+      <url href="/google.com/products/voice">
+        <url href="/google.com/products/voice/"/>
+      </url>
+    </url>
+    <url href="/google.com/security">
+      <url href="/google.com/security/"/>
+    </url>
+    <url href="/google.com/pricing.html"/>
+    <url href="/google.com/industries">
+      <url href="/google.com/industries/healthcare">
+        <url href="/google.com/industries/healthcare/"/>
+      </url>
+      <url href="/google.com/industries/retail">
+        <url href="/google.com/industries/retail/"/>
+      </url>
+      <url href="/google.com/industries/manufacturing">
+        <url href="/google.com/industries/manufacturing/"/>
+      </url>
+      <url href="/google.com/industries/government">
+        <url href="/google.com/industries/government/"/>
+      </url>
+      <url href="/google.com/industries/professional-services">
+        <url href="/google.com/industries/professional-services/"/>
+      </url>
+      <url href="/google.com/industries/technology">
+        <url href="/google.com/industries/technology/"/>
+      </url>
+    </url>
+    <url href="/google.com/departments">
+      <url href="/google.com/departments/sales-collaboration-solutions">
+        <url href="/google.com/departments/sales-collaboration-solutions/"/>
+      </url>
+      <url href="/google.com/departments/marketing-collaboration-solutions">
+        <url href="/google.com/departments/marketing-collaboration-solutions/"/>
+      </url>
+      <url href="/google.com/departments/hr-collaboration-tools">
+        <url href="/google.com/departments/hr-collaboration-tools/"/>
+      </url>
+    </url>
+    <url href="/google.com/the-future-of-work">
+      <url href="/google.com/the-future-of-work/"/>
+    </url>
+    <url href="/google.com/solutions">
+      <url href="/google.com/solutions/ai">
+        <url href="/google.com/solutions/ai/"/>
+      </url>
+    </url>
+    <url href="/google.com/customers">
+      <url href="/google.com/customers/"/>
+    </url>
+    <url href="/google.com/demo">
+      <url href="/google.com/demo/"/>
+    </url>
+    <url href="/google.com/training">
+      <url href="/google.com/training/"/>
+    </url>
+    <url href="/google.com/resources">
+      <url href="/google.com/resources/video-conferencing"/>
+    </url>
+    <url href="/google.com/landing">
+      <url href="/google.com/landing/partners">
+        <url href="/google.com/landing/partners/referral">
+          <url href="/google.com/landing/partners/referral/"/>
+        </url>
+      </url>
+    </url>
+    <url href="/google.com/contact-form">
+      <url href="/google.com/contact-form/jamboard">
+        <url href="/google.com/contact-form/jamboard/"/>
+      </url>
+    </url>
+    <url href="/google.com/working-remotely">
+      <url href="/google.com/working-remotely/"/>
+    </url>
+    <url href="/google.com/whatsnew">
+      <url href="/google.com/whatsnew/"/>
+    </url>
+    <url href="/google.com/what-is-android">
+      <url href="/google.com/what-is-android/"/>
+    </url>
+    <url href="/google.com/android-13">
+      <url href="/google.com/android-13/"/>
+    </url>
+    <url href="/google.com/phones">
+      <url href="/google.com/phones/"/>
+    </url>
+    <url href="/google.com/tablets">
+      <url href="/google.com/tablets/"/>
+    </url>
+    <url href="/google.com/everyone">
+      <url href="/google.com/everyone/"/>
+    </url>
+    <url href="/google.com/auto">
+      <url href="/google.com/auto/"/>
+    </url>
+    <url href="/google.com/switch-to-android">
+      <url href="/google.com/switch-to-android/"/>
+    </url>
+    <url href="/google.com/filetransfer">
+      <url href="/google.com/filetransfer/"/>
+    </url>
+    <url href="/google.com/get-started">
+      <url href="/google.com/get-started/domain-search">
+        <url href="/google.com/get-started/domain-search/"/>
+      </url>
+      <url href="/google.com/get-started/email">
+        <url href="/google.com/get-started/email/"/>
+      </url>
+      <url href="/google.com/get-started/website-design">
+        <url href="/google.com/get-started/website-design/"/>
+        <url href="/google.com/get-started/website-design/google-sites">
+          <url href="/google.com/get-started/website-design/google-sites/"/>
+        </url>
+      </url>
+      <url href="/google.com/get-started/online-ads">
+        <url href="/google.com/get-started/online-ads/"/>
+      </url>
+    </url>
+    <url href="/google.com/learn">
+      <url href="/google.com/learn/"/>
+      <url href="/google.com/learn/why-domains">
+        <url href="/google.com/learn/why-domains/"/>
+      </url>
+      <url href="/google.com/learn/what-to-do-if-the-domain-name-you-want-is-taken">
+        <url href="/google.com/learn/what-to-do-if-the-domain-name-you-want-is-taken/"/>
+      </url>
+      <url href="/google.com/learn/top-5-reasons-to-get-more-than-one-domain-name">
+        <url href="/google.com/learn/top-5-reasons-to-get-more-than-one-domain-name/"/>
+      </url>
+      <url href="/google.com/learn/how-to-choose-traditional-vs-new-domain-endings">
+        <url href="/google.com/learn/how-to-choose-traditional-vs-new-domain-endings/"/>
+      </url>
+      <url href="/google.com/learn/why-and-how-to-transfer-your-domain">
+        <url href="/google.com/learn/why-and-how-to-transfer-your-domain/"/>
+      </url>
+      <url href="/google.com/learn/how-to-come-up-with-a-good-domain-name">
+        <url href="/google.com/learn/how-to-come-up-with-a-good-domain-name/"/>
+      </url>
+    </url>
+    <url href="/google.com/tld">
+      <url href="/google.com/tld/com">
+        <url href="/google.com/tld/com/"/>
+      </url>
+      <url href="/google.com/tld/org">
+        <url href="/google.com/tld/org/"/>
+      </url>
+      <url href="/google.com/tld/net">
+        <url href="/google.com/tld/net/"/>
+      </url>
+      <url href="/google.com/tld/dev">
+        <url href="/google.com/tld/dev/"/>
+      </url>
+      <url href="/google.com/tld/app">
+        <url href="/google.com/tld/app/"/>
+      </url>
+      <url href="/google.com/tld/co">
+        <url href="/google.com/tld/co/"/>
+      </url>
+      <url href="/google.com/tld/me">
+        <url href="/google.com/tld/me/"/>
+      </url>
+      <url href="/google.com/tld/design">
+        <url href="/google.com/tld/design/"/>
+      </url>
+      <url href="/google.com/tld/biz">
+        <url href="/google.com/tld/biz/"/>
+      </url>
+      <url href="/google.com/tld/tech">
+        <url href="/google.com/tld/tech/"/>
+      </url>
+      <url href="/google.com/tld/"/>
+    </url>
+    <url href="/google.com/welcome">
+      <url href="/google.com/welcome/"/>
+    </url>
+    <url href="/google.com/the-latest">
+      <url href="/google.com/the-latest/"/>
+    </url>
+    <url href="/google.com/what-is-google-home">
+      <url href="/google.com/what-is-google-home/"/>
+    </url>
+    <url href="/google.com/get-inspired">
+      <url href="/google.com/get-inspired/"/>
+      <url href="/google.com/get-inspired/matter-and-thread">
+        <url href="/google.com/get-inspired/matter-and-thread/"/>
+      </url>
+    </url>
+    <url href="/google.com/explore-devices">
+      <url href="/google.com/explore-devices/"/>
+      <url href="/google.com/explore-devices/featured-devices">
+        <url href="/google.com/explore-devices/featured-devices/"/>
+      </url>
+      <url href="/google.com/explore-devices/lighting-and-plugs">
+        <url href="/google.com/explore-devices/lighting-and-plugs/"/>
+      </url>
+      <url href="/google.com/explore-devices/climate-and-energy">
+        <url href="/google.com/explore-devices/climate-and-energy/"/>
+      </url>
+      <url href="/google.com/explore-devices/security-and-awareness">
+        <url href="/google.com/explore-devices/security-and-awareness/"/>
+      </url>
+      <url href="/google.com/explore-devices/entertainment">
+        <url href="/google.com/explore-devices/entertainment/"/>
+      </url>
+      <url href="/google.com/explore-devices/appliances-and-more">
+        <url href="/google.com/explore-devices/appliances-and-more/"/>
+      </url>
+    </url>
+    <url href="/google.com/watch-with-me">
+      <url href="/google.com/watch-with-me/judd-apatow">
+        <url href="/google.com/watch-with-me/judd-apatow/"/>
+      </url>
+      <url href="/google.com/watch-with-me/zooey-deschanel">
+        <url href="/google.com/watch-with-me/zooey-deschanel/"/>
+      </url>
+      <url href="/google.com/watch-with-me/leslie-odom-jr">
+        <url href="/google.com/watch-with-me/leslie-odom-jr/"/>
+      </url>
+      <url href="/google.com/watch-with-me/kerry-washington">
+        <url href="/google.com/watch-with-me/kerry-washington/"/>
+      </url>
+      <url href="/google.com/watch-with-me/andra-day">
+        <url href="/google.com/watch-with-me/andra-day/"/>
+      </url>
+    </url>
+  </url>
+</url_set>
+
