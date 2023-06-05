@@ -1,3 +1,4 @@
+import time
 from datetime import date
 
 from prettytable import PrettyTable
@@ -8,20 +9,25 @@ from db_connect import MyDbPostgreSql
 from sitemap_visualizer import VisualizerSitemap
 
 if __name__ == "__main__":
-    my_db = MyDbPostgreSql(password="", db_name="postgres")
+    my_db = MyDbPostgreSql(password="68305eetR_1", db_name="postgres")
     my_db.create_table('sitemaps',
                        '(id SERIAL PRIMARY KEY, site_url TEXT,'
                        ' processing_time_ms INT, checked_urls INT,'
                        ' result_filename TEXT, time_created TEXT)')
 
-    urls = ['https://crawler-test.com/']
+    urls = ['http://crawler-test.com/', 'https://google.com/',
+            'https://vk.com/', 'https://dzen.ru/', 'https://stackoverflow.com/']
 
     info_table = PrettyTable()
     info_table.field_names = ['URL сайта', 'Время обработки', 'Кол-во ссылок', "Имя файла с картой"]
 
     for InitialURL in urls:
 
-        main_crawler = RunCrawler(InitialURL)
+        print("Generate sitemap for " + InitialURL + '\n\n')
+
+        time.sleep(1)
+
+        main_crawler = RunCrawler(InitialURL, max_urls=1000)
         dataset = main_crawler.get_dataset()
         info = main_crawler.get_info()
         filename = InitialURL.split('/')[2]
@@ -39,6 +45,8 @@ if __name__ == "__main__":
 
         sitemap_visual = VisualizerSitemap(filename=filename + ".png")
         sitemap_visual.start_visualizer(dataset)
+
+        print('\n')
 
     print(info_table)
 

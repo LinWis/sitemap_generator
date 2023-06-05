@@ -165,6 +165,7 @@
       <url href="/crawler-test.com/robots_protocol/non_200_with_noindex"/>
       <url href="/crawler-test.com/robots_protocol/canonicalised_with_noindex"/>
       <url href="/crawler-test.com/robots_protocol/canonicalised_with_non_200"/>
+      <url href="/crawler-test.com/robots_protocol/link_on_deepcrawl_excluded"/>
       <url href="/crawler-test.com/robots_protocol/robots_excluded_1">
         <url href="/crawler-test.com/robots_protocol/robots_excluded_1/bar">
           <url href="/crawler-test.com/robots_protocol/robots_excluded_1/bar/baz"/>
@@ -176,7 +177,6 @@
         <url href="/crawler-test.com/robots_protocol/robots_excluded_2/link_on_robots_excluded_2"/>
       </url>
       <url href="/crawler-test.com/robots_protocol/robots_excluded_3"/>
-      <url href="/crawler-test.com/robots_protocol/link_on_deepcrawl_excluded"/>
       <url href="/crawler-test.com/robots_protocol/user_excluded_1">
         <url href="/crawler-test.com/robots_protocol/user_excluded_1/bar">
           <url href="/crawler-test.com/robots_protocol/user_excluded_1/bar/baz"/>
@@ -286,17 +286,18 @@
           </url>
           <url href="/crawler-test.com/links/relative_link_with_base/a/subdir">
             <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/relative-link-3"/>
+            <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/relative-link-4"/>
             <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/y">
               <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/y/z"/>
             </url>
             <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/subdir">
               <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/subdir/relative-link-3"/>
             </url>
-            <url href="/crawler-test.com/links/relative_link_with_base/a/subdir/relative-link-4"/>
           </url>
         </url>
         <url href="/crawler-test.com/links/relative_link_with_base/subdir">
           <url href="/crawler-test.com/links/relative_link_with_base/subdir/relative-link-4"/>
+          <url href="/crawler-test.com/links/relative_link_with_base/subdir/relative-link-5"/>
           <url href="/crawler-test.com/links/relative_link_with_base/subdir/y">
             <url href="/crawler-test.com/links/relative_link_with_base/subdir/y/z"/>
             <url href="/crawler-test.com/links/relative_link_with_base/subdir/y/y">
@@ -308,15 +309,14 @@
           </url>
           <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir">
             <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/relative-link-3"/>
-            <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/relative-link-4"/>
             <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/y">
               <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/y/z"/>
             </url>
             <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/subdir">
               <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/subdir/relative-link-3"/>
             </url>
+            <url href="/crawler-test.com/links/relative_link_with_base/subdir/subdir/relative-link-4"/>
           </url>
-          <url href="/crawler-test.com/links/relative_link_with_base/subdir/relative-link-5"/>
         </url>
       </url>
       <url href="/crawler-test.com/links/image_links"/>
@@ -332,8 +332,8 @@
       <url href="/crawler-test.com/links/comma_separated_attributes"/>
       <url href="/crawler-test.com/links/nofollow_and_follow_link"/>
       <url href="/crawler-test.com/links/relative_protocol_page"/>
-      <url href="/crawler-test.com/links/link_on_nofollowed_1"/>
-      <url href="/crawler-test.com/links/link_on_nofollowed_2"/>
+      <url href="/crawler-test.com/links/nofollowed_backlink_1"/>
+      <url href="/crawler-test.com/links/nofollowed_backlink_2"/>
       <url href="/crawler-test.com/links/not_found">
         <url href="/crawler-test.com/links/not_found/foo1"/>
         <url href="/crawler-test.com/links/not_found/foo2"/>
@@ -341,11 +341,11 @@
         <url href="/crawler-test.com/links/not_found/foo4"/>
         <url href="/crawler-test.com/links/not_found/foo5"/>
       </url>
+      <url href="/crawler-test.com/links/link_on_nofollowed_1"/>
+      <url href="/crawler-test.com/links/link_on_nofollowed_2"/>
       <url href="/crawler-test.com/links/subdir">
         <url href="/crawler-test.com/links/subdir/relative-link-5"/>
       </url>
-      <url href="/crawler-test.com/links/nofollowed_backlink_1"/>
-      <url href="/crawler-test.com/links/nofollowed_backlink_2"/>
       <url href="/crawler-test.com/links/0800%20180%208716"/>
       <url href="/crawler-test.com/links/echo123"/>
       <url href="/crawler-test.com/links/void(0)"/>
@@ -705,18 +705,12 @@
       <url href="/crawler-test.com/other/page_load_time_n"/>
       <url href="/crawler-test.com/other/crawler_request_headers"/>
       <url href="/crawler-test.com/other/expiring_page_for_removed_test">
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854509.1963627"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854511.1960397"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854512.9724817"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854513.825351"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854513.8198562"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854518.8830903"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854519.5094223"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854519.5207655"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854520.7815037"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854520.7852292"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854522.8778133"/>
-        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685854522.8451447"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864423.2078907"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864426.9096775"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864427.7151601"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864427.741797"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864432.1432714"/>
+        <url href="/crawler-test.com/other/expiring_page_for_removed_test/1685864432.154805"/>
       </url>
       <url href="/crawler-test.com/other/duplicated_body_content_1"/>
       <url href="/crawler-test.com/other/duplicated_body_content_2"/>

@@ -3,23 +3,26 @@ import time
 from http.client import RemoteDisconnected
 from urllib.error import URLError
 from urllib.request import urlopen
-from urllib.parse import urlparse, quote, urljoin
+from urllib.parse import urlparse, quote, urljoin, urldefrag
 from urllib.request import Request
 import threading
 
 import lxml
+from lxml import cssselect
 from lxml.html.soupparser import fromstring
 
 
 class RunCrawler(threading.Thread):
 
-    def __init__(self, url: str):
+    def __init__(self, url: str, max_urls=5000):
         super().__init__()
         self.InitialURL = url
         self.url_queue = list()
         self.checked_url = set()
+        self.active_urls = set()
         self.checked_url_tree = {}
         self.start_thread_count = len(threading.enumerate())
+        self.max_urls = max_urls
 
         self.run_ini = time.time()
         self.run_end = None
@@ -43,9 +46,11 @@ class RunCrawler(threading.Thread):
     def run(self):
         while threading.active_count() > self.start_thread_count:
             for index, cur_url in self.url_queue_generator():
-                Crawler(index, cur_url, self)
-                print('Threads: ', len(threading.enumerate()) - self.start_thread_count,
-                      ' Queue: ', len(self.url_queue), ' Checked: ', len(self.checked_url))
+                if threading.active_count() < 300:
+                    Crawler(index, cur_url, self)
+                    self.active_urls.add(cur_url)
+                    print('Threads: ', len(threading.enumerate()) - self.start_thread_count,
+                          ' Queue: ', len(self.url_queue), ' Checked: ', len(self.checked_url))
 
             print("Waiting pls, some threads are still working")
             time.sleep(2)
@@ -71,7 +76,9 @@ class RunCrawler(threading.Thread):
             url_dict = url_dict[key]
 
     def check_url(self, url: str) -> None:
-        if url not in self.url_queue and url not in self.checked_url and self.InitialURL in url:
+        if (url not in self.url_queue) and (url not in self.checked_url) and (self.InitialURL in url)\
+                and (url not in self.active_urls) and (len(self.url_queue) < self.max_urls // 2)\
+                and (len(self.checked_url) < self.max_urls // 2):
             quote_url = quote(url, safe=string.printable).replace(" ", "%20")
             self.url_queue.append(quote_url)
             self.add_url_to_tree(quote_url)
@@ -104,19 +111,22 @@ class RunCrawler(threading.Thread):
         return urljoin(src_new_path, url_new_path)
 
     def parse_thread(self, url: str, data: lxml.html) -> None:
-        temp_links = data.xpath('//a')
+        select = cssselect.CSSSelector("a")
 
-        for temp_index, temp_link in enumerate(temp_links):
-            temp_attrs = temp_link.attrib
+        temp_links = [el.get('href') for el in select(data)]
+        temp_links = temp_links[:1000]
 
-            if 'href' in temp_attrs:
-                temp_url = temp_attrs.get('href')
-                temp_src = url
+        for temp_link in temp_links:
 
-                path = self.join_url(temp_src, temp_url)
+            path = self.join_url(url, temp_link)
 
-                if path:
-                    self.check_url(path)
+            if path:
+                self.check_url(path)
+
+        try:
+            self.active_urls.remove(url)
+        except Exception:
+            pass
 
     def get_info(self) -> list:
         return [self.InitialURL, self.run_dif, len(self.checked_url)]
@@ -152,6 +162,8 @@ class Crawler(threading.Thread):
     def run(self):
 
         try:
+            print("processing: ", self.crawl_url)
+            self.crawl_url, frag = urldefrag(self.crawl_url)
             url = quote(self.crawl_url, safe=string.printable).replace(" ", "%20")
             temp_req = Request(url, headers=self.request_headers)
             temp_res = urlopen(temp_req)
@@ -170,8 +182,8 @@ class Crawler(threading.Thread):
                 except (RuntimeError, TypeError, NameError, ValueError):
                     print('Content could not be parsed.')
 
-        except URLError:
-            print('URLError: ', self.crawl_url)
+        except URLError as e:
+            print('URLError: ', self.crawl_url, e)
 
         except RemoteDisconnected:
             print("RemoteDisconnect on this url: ", self.crawl_url)
