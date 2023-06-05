@@ -5,7 +5,7 @@ from lxml import etree
 
 class Sitemap:
     def __init__(self, data_set=None, xmnls='https://www.testsitemap.org/schemas/sitemap/1',
-                 url_set=None, encoding='utf-8', filename='sitemap.xml'):
+                 url_set=None, encoding='utf-8', filename='xml/sitemap.xml'):
 
         self.url_set = url_set
         self.xmlns = xmnls
