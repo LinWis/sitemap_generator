@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 class VisualizerSitemap:
 
-    def __init__(self, filename="filename.png"):
-        self.filename = filename
+    def __init__(self, filename="visual_xml/filename.png"):
+        self.filename = "visual_xml/" + filename
 
         self.graph = nx.DiGraph()
 

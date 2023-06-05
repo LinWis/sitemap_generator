@@ -10,7 +10,7 @@ class Sitemap:
         self.url_set = url_set
         self.xmlns = xmnls
         self.encoding = encoding
-        self.filename = filename
+        self.filename = "xml/" + filename
         self.data_set = data_set
 
     def generate_sitemap(self) -> None:
