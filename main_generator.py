@@ -7,7 +7,7 @@ from sitemap import Sitemap
 from crawlers import RunCrawler
 from db_connect import MyDbPostgreSql
 from sitemap_visualizer import VisualizerSitemap
-
+#комментарий
 if __name__ == "__main__":
     my_db = MyDbPostgreSql(password="", db_name="postgres")
     my_db.create_table('sitemaps',
